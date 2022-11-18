@@ -1,0 +1,27 @@
+.speaker-1{
+    background-image: url('/img/pexels-andrea-piacquadio-3771807.jpg');
+    background-position:center;
+    height: 300px;
+    width:100%;
+}
+.speaker-2{
+    background-image: url('/img/pexels-anna-shvets-3727464.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+    height: 300px;
+    width:100%;
+}
+.speaker-3{
+    background-image: url('/img/pexels-emmy-e-2381069.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 300px;
+    width:100%;
+}
+.speaker-4{
+    background-image: url('/img/man-g7e1b653ae_640.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+    height: 300px;
+    width:100%;
+}
